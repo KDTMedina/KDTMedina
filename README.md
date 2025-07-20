@@ -1,64 +1,64 @@
 ## Hello, I'm Keona Daniella. You can call me Keona or KD 👋
 
-As a graduate of Information Technology with a passion for software development and databases, I bring dedication and a commitment to continuous learning.
+A graduate of Information Technology with a passion for software development and databases. I bring dedication and a commitment to continuous learning.
 
 Through my studies and personal projects, I've developed skills across software engineering, databases, networks, and cybersecurity. I thrive on solving complex problems and building efficient systems that make a difference.
 
-🎓 BS in Information Technology, Major in Cybersecurity | TIP-QC
+🎓 BS in Information Technology, Major in Cybersecurity | TIP-QC  
 🌐 https://kdmedinadev.vercel.app/
 
-### Core Technologies:
-<img src="https://camo.githubusercontent.com/e6fce0a782dbc0daa02cc5ac38a1ad8138c2aa8e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c61726176656c2d4646324432303f7374796c653d666f722d7468652d6261646765266c6f676f3d6c6172617665266c6f676f436f6c6f723d7768697465" alt="Laravel" />
-<img src="https://camo.githubusercontent.com/45ef692b6a56cc57bc7ad7fa4f8b9ff60ade8e88/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5048502d3737374242343f7374796c653d666f722d7468652d6261646765266c6f676f3d706870266c6f676f436f6c6f723d7768697465" alt="PHP" />
-<img src="https://camo.githubusercontent.com/b5b2cbe9d6a51c5b5f6c6c2b8c9e1d6c2a7c90c4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7953514c2d3434373941313f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465" alt="MySQL" />
-<img src="https://camo.githubusercontent.com/2435c2a64789b8a71c701a1a593b4a6e6869789a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b" alt="JavaScript" />
-<img src="https://camo.githubusercontent.com/4590c0af4aeb1b75233885f86e80c6e8db8b0d2e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547970655363726970742d3030374143433f7374796c653d666f722d7468652d6261646765266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465" alt="TypeScript" />
-<img src="https://camo.githubusercontent.com/a1c5e9056e3be1e1058d8fcbb88c4c8a93736e37/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d4544384230303f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465" alt="Java" />
-<img src="https://camo.githubusercontent.com/c9f71dd809d6529f2c5bc4c9c21f1c45c8e37832/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f466c75747465722d3032353639423f7374796c653d666f722d7468652d6261646765266c6f676f3d666c7574746572266c6f676f436f6c6f723d7768697465" alt="Flutter" />
-<img src="https://camo.githubusercontent.com/dd4b2422ed3bfc9da88c43d18550375c66f9584f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46697265626173652d4646434132383f7374796c653d666f722d7468652d6261646765266c6f676f3d6669726562617365266c6f676f436f6c6f723d626c61636b" alt="Firebase" />
-<img src="https://camo.githubusercontent.com/9a7c7ebbabb2096c0ad0cac6f49d1e8d5a88c8b4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d4630353033323f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465" alt="Git" />
-<img src="https://camo.githubusercontent.com/c8d13e1c596a6726b1da8475a9299fac133f95ef/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" alt="HTML" />
-<img src="https://camo.githubusercontent.com/62d37abe760867620e0baea1066303719d630a82/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242363f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465" alt="CSS3" />
-<img src="https://camo.githubusercontent.com/b13ed67c809178963ce9d538175b02649800772e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426f6f7473747261702d3536334437433f7374796c653d666f722d7468652d6261646765266c6f676f3d626f6f747374726170266c6f676f436f6c6f723d7768697465" alt="Bootstrap" />
-<img src="https://camo.githubusercontent.com/842671ba3d3a18b45b2d0f918b4c2b2b58f1e37e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c25323053747564696f253230436f64652d3030373844343f7374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d7768697465" alt="VS Code" />
-<img src="https://camo.githubusercontent.com/bbb327d6ba7708520eaafd13396fed64d73bf5df/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f41646f626525323050686f746f73686f702d3331413846463f7374796c653d666f722d7468652d6261646765266c6f676f3d61646f626525323070686f746f73686f70266c6f676f436f6c6f723d7768697465" alt="Adobe Photoshop" />
+## Core Technologies:
 
-### Technologies that I have worked on projects/exercises with:
-<img src="https://camo.githubusercontent.com/68f4aeae0f11fac88ac9e9b86dc3654cfcc0f1a7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3230323332413f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d363144414642" alt="React" />
-<img src="https://camo.githubusercontent.com/2e496d4bfc6f753ddca87b521ce95c88219e78de/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432532332d3233393132303f7374796c653d666f722d7468652d6261646765266c6f676f3d632d7368617270266c6f676f436f6c6f723d7768697465" alt="C#" />
-<img src="https://camo.githubusercontent.com/b318a82c57da53e3e00246b9cfb6f3a3ae5c7b2d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f556e6974792d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d756e697479266c6f676f436f6c6f723d7768697465" alt="Unity" />
-<img src="https://camo.githubusercontent.com/a071c7d4fe45daa85f39b5b42db4d95e158f5c6e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3337373641423f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465" alt="Python" />
-<img src="https://camo.githubusercontent.com/3a40fdc48e72b3f7e6e5c1ed9e0f0ec7af96a1e6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432b2b2d3030353939433f7374796c653d666f722d7468652d6261646765266c6f676f3d6325324225324226c6f676f436f6c6f723d7768697465" alt="C++" />
-<img src="https://camo.githubusercontent.com/7f73136d92799b19be179d1ed87b461120c35ed8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f64652e6a732d3433383534333f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d7768697465" alt="Node.js" />
-<img src="https://camo.githubusercontent.com/c42e3c4f8cc4d8a38d7c26ad4e56c6e9c55d43f8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496f6e69632d3341394346463f7374796c653d666f722d7468652d6261646765266c6f676f3d696f6e6963266c6f676f436f6c6f723d7768697465" alt="Ionic" />
-<img src="https://camo.githubusercontent.com/e89c6e4d96568d75ab6dccd8e4cad03cd5b6a7a1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f416e67756c61722d4444303033313f7374796c653d666f722d7468652d6261646765266c6f676f3d616e67756c6172266c6f676f436f6c6f723d7768697465" alt="Angular" />
-<img src="https://camo.githubusercontent.com/c728b33b5c5bb72d4ec18e8a3c95ae09f70e8b79/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f416e64726f696425323053747564696f2d3346444442343f7374796c653d666f722d7468652d6261646765266c6f676f3d616e64726f69642d73747564696f266c6f676f436f6c6f723d7768697465" alt="Android Studio" />
-<img src="https://camo.githubusercontent.com/fd5cc4de0a0f2a9cf2e10b6c09f3a7fe6b74bb66/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f45636c697073652d3246324536333f7374796c653d666f722d7468652d6261646765266c6f676f3d65636c69707365266c6f676f436f6c6f723d7768697465" alt="Eclipse" />
-<img src="https://camo.githubusercontent.com/2df96c53f5b5e8d5c4be2c9a2c17fa8e37c1d0e6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4f7261636c652d4631344334433f7374796c653d666f722d7468652d6261646765266c6f676f3d6f7261636c65266c6f676f436f6c6f723d7768697465" alt="Oracle" />
-<img src="https://camo.githubusercontent.com/7d7b100e379663ee40a20989e6c61feab2017432/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5461696c77696e645f4353532d3338423241433f7374796c653d666f722d7468652d6261646765266c6f676f3d7461696c77696e642d637373266c6f676f436f6c6f723d7768697465" alt="Tailwind CSS" />
-<img src="https://camo.githubusercontent.com/6c1ac4f6e6e4b7bf2b5b82e4b6542c56e2b6e527/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f41646f626525323058442d4646323846363f7374796c653d666f722d7468652d6261646765266c6f676f3d61646f626525323078642666696c6c3d7768697465" alt="Adobe XD" />
-<img src="https://camo.githubusercontent.com/45c6c9cc3c3b9a7a8b0f6b6b0f8f3e6d4b0f6b6b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4669676d612d4632464146413f7374796c653d666f722d7468652d6261646765266c6f676f3d6669676d61266c6f676f436f6c6f723d7768697465" alt="Figma" />
-<img src="https://camo.githubusercontent.com/b7e290c9d7b4b7b7a3b7c3b7e5d4c6a7c8b9e8a5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5669727475616c426f782d3138334131423f7374796c653d666f722d7468652d6261646765266c6f676f3d76697274756c616c626f78266c6f676f436f6c6f723d7768697465" alt="VirtualBox" />
-<img src="https://camo.githubusercontent.com/2e6b8b6b6b6b6b6b6b6b6b6b6b6b6b6b6b6b6b6b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f73746d616e2d4646364333373f7374796c653d666f722d7468652d6261646765266c6f676f3d706f73746d616e266c6f676f436f6c6f723d7768697465" alt="Postman" />
-<img src="https://camo.githubusercontent.com/5b5b5b5b5b5b5b5b5b5b5b5b5b5b5b5b5b5b5b5b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5341502d3030343138373f7374796c653d666f722d7468652d6261646765266c6f676f3d736170266c6f676f436f6c6f723d7768697465" alt="SAP" />
-<img src="https://camo.githubusercontent.com/7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436973636f2d3146414346413f7374796c653d666f722d7468652d6261646765266c6f676f3d636973636f266c6f676f436f6c6f723d7768697465" alt="Cisco" />
-<img src="https://camo.githubusercontent.com/8d8d8d8d8d8d8d8d8d8d8d8d8d8d8d8d8d8d8d8d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57697265736861726b2d3142374243463f7374796c653d666f722d7468652d6261646765266c6f676f3d77697265736861726b266c6f676f436f6c6f723d7768697465" alt="Wireshark" />
-<img src="https://camo.githubusercontent.com/9a9a9a9a9a9a9a9a9a9a9a9a9a9a9a9a9a9a9a9a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f427572707375697465253230507265666573696f6e616c2d4646363633333f7374796c653d666f722d7468652d6261646765266c6f676f3d427572707375697465266c6f676f436f6c6f723d7768697465" alt="Burpsuite" />
-<img src="https://camo.githubusercontent.com/b0b0b0b0b0b0b0b0b0b0b0b0b0b0b0b0b0b0b0b0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4170706c652d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d6170706c65266c6f676f436f6c6f723d7768697465" alt="Apple" />
-<img src="https://camo.githubusercontent.com/c1c1c1c1c1c1c1c1c1c1c1c1c1c1c1c1c1c1c1c1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e75782d4643433632343f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e7578266c6f676f436f6c6f723d626c61636b" alt="Linux" />
-<img src="https://camo.githubusercontent.com/d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56657263656c2d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d76657263656c266c6f676f436f6c6f723d7768697465" alt="Vercel" />
-<img src="https://camo.githubusercontent.com/e3e3e3e3e3e3e3e3e3e3e3e3e3e3e3e3e3e3e3e3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e66696e6974795265652d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d696e66696e69747966726565266c6f676f436f6c6f723d7768697465" alt="InfinityFree" />
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 
-### Learning in Progress:
-<img src="https://camo.githubusercontent.com/f4f4f4f4f4f4f4f4f4f4f4f4f4f4f4f4f4f4f4f4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2e4e45542d3543324437303f7374796c653d666f722d7468652d6261646765266c6f676f3d2e6e6574266c6f676f436f6c6f723d7768697465" alt=".NET" />
-<img src="https://camo.githubusercontent.com/5555555555555555555555555555555555555555/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6963726f736f66742532305353514c253230536572766572253230363730383036443f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6963726f736f66742d73716c2d736572766572266c6f676f436f6c6f723d7768697465" alt="MS SQL Server" />
-<img src="https://camo.githubusercontent.com/6666666666666666666666666666666666666666/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446f636b65722d3244433244413f7374796c653d666f722d7468652d6261646765266c6f676f3d646f636b6572266c6f676f436f6c6f723d7768697465" alt="Docker" />
-<img src="https://camo.githubusercontent.com/7777777777777777777777777777777777777777/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6578742e6a732d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6578742e6a73266c6f676f436f6c6f723d7768697465" alt="Next.js" />
-<img src="https://camo.githubusercontent.com/8888888888888888888888888888888888888888/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f737467726553514c2d3331363139323f7374796c653d666f722d7468652d6261646765266c6f676f3d706f737467726573716c266c6f676f436f6c6f723d7768697465" alt="PostgreSQL" />
+## Technologies that I have worked on projects/exercises with:
 
-### Connect with me:
-Linkedin:
-[KD MEDINA](https://www.linkedin.com/in/kdtmedina)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white)
+![Apple](https://img.shields.io/badge/Apple-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+## Learning in Progress:
+
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+## Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kd-medina)
 
 🚀 Chasing progress, each day.
-
