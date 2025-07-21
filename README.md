@@ -64,3 +64,9 @@ Through my studies and personal projects, I've developed skills across software 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kdtmedina)
 
 🚀 Chasing progress, each day.
+
+## 
+P.S. If you're wondering, the source codes for most of these projects are in a private GitHub repository or stored locally on my computer. If you're a hiring recruiter and need access to any of these project source codes, I'd be glad to share them with you. Please feel free to reach out via Linkedin! Thank you so much for your interest!
+
+
+
