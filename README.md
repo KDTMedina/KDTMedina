@@ -66,7 +66,7 @@ Through my studies and personal projects, I've developed skills across software 
 🚀 Chasing progress, each day.
 
 ## 
-P.S. If you're wondering, the source codes for most of the projects in my portfolio are in a private GitHub repository or stored locally on my computer. If you're a hiring recruiter and need access to any of these project source codes, I'd be glad to share them with you. Please feel free to reach out via Linkedin! Thank you so much for your interest!
+*P.S. If you're wondering, the source codes for most of the projects in my portfolio are in a private GitHub repository or stored locally on my computer. If you're a hiring recruiter and need access to any of these project source codes, I'd be glad to share them with you. Please feel free to reach out via Linkedin! Thank you so much for your interest!*
 
 
 
